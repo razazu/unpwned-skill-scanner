@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a vulnerability privately
+    url: https://www.unpwned.io/security
+    about: Follow the current disclosure policy. Do not post sensitive evidence in a public issue.
+  - name: Try the hosted Skill Scanner
+    url: https://www.unpwned.io/skill-scanner?utm_source=github&utm_medium=repository&utm_campaign=skill_scanner
+    about: Review a public skill or pasted text. Do not submit secrets or confidential material.
